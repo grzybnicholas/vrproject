@@ -1,57 +1,51 @@
 https://drive.google.com/file/d/14I1pleaUT241EFQ7RBeoLECGYLMldudZ/view?usp=sharing
-# Apocalypse Driver: A Unity3D Survival Game
+Apocalypse Driver: A Unity3D Survival Game
 
-Welcome to **Apocalypse Driver**, a Unity3D game where your survival skills and combat prowess are put to the test as you drive through five unique and perilous environments. Your mission: eliminate all damageable AI enemies and restore peace to a world in chaos.
+Welcome to Apocalypse Driver, a Unity3D game where your survival skills and combat prowess are put to the test as you drive through five unique and perilous environments. Your mission: eliminate all damageable AI enemies and restore peace to a world in chaos.
 
-## Game Overview
+Game Overview
 
 In this game, players navigate through various challenging biomes, each with its own set of enemies and hazards. Your ultimate goal is to defeat all hostile AI enemies across these environments.
 
-## Environments
+Environments
 
-### 1. Grassy Hill Biome
-- **Starting Point**: A peaceful grassy hill biome where players get familiar with vehicle controls and basic combat maneuvers.
-- **Objective**: Learn the ropes before diving into more dangerous territories.
+1. Grassy Hill Biome
+- Starting Point: A peaceful grassy hill biome where players get familiar with vehicle controls and basic combat maneuvers.
+- Objective: Learn the ropes before diving into more dangerous territories.
 
-### 2. Zombie-Ridden Cityscape
-- **Description**: A decaying urban jungle overrun by hordes of zombies.
-- **Objective**: Navigate the crumbling streets and eliminate the undead.
+2. Zombie-Ridden Cityscape
+- Description: A decaying urban jungle overrun by hordes of zombies.
+- Objective: Navigate the crumbling streets and eliminate the undead.
 
-### 3. High-Tech Training Zone
-- **Description**: A futuristic training area filled with advanced AI opponents.
-- **Objective**: Hone your combat skills against well-programmed adversaries.
+3. High-Tech Training Zone
+- Description: A futuristic training area filled with advanced AI opponents.
+- Objective: Hone your combat skills against well-programmed adversaries.
 
-### 4. Snowy Mountain Biome
-- **Description**: A treacherous snowy mountain range inhabited by vengeful snowmen.
-- **Objective**: Survive the icy terrain and defeat the angry snowmen.
+4. Snowy Mountain Biome
+- Description: A treacherous snowy mountain range inhabited by vengeful snowmen.
+- Objective: Survive the icy terrain and defeat the angry snowmen.
 
-### 5. Witch’s House
-- **Description**: An eerie witch’s house in a haunted forest, guarded by magical skeletons.
-- **Objective**: Destroy the witch’s creations and conquer the supernatural threats.
+5. Witch’s House
+- Description: An eerie witch’s house in a haunted forest, guarded by magical skeletons.
+- Objective: Destroy the witch’s creations and conquer the supernatural threats.
 
-## End Goal
+End Goal
 
 The game’s primary objective is to eliminate all damageable AI enemies in each environment. Each biome presents unique challenges that will require you to adapt your strategy, improve your driving skills, and master combat techniques.
 
-### Prerequisites
+Prerequisites
 - Unity3D (version 2021.3 or higher)
 - A computer capable of running Unity3D
 
-### Installation
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/username/Apocalypse-Driver.git
-    ```
+Installation
+1. Download the file from the google drive link provided
 2. Open the project in Unity3D.
 3. Build and run the game.
 
-## Contributing
+Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
